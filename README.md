@@ -16,3 +16,5 @@ headers:{
 [KinhDown](https://t.me/kinhdown): client type
 
 [PNL](https://www.lanzous.com/u/pnl): download method
+
+[acgotaku/BaiduExporter](https://github.com/acgotaku/BaiduExporter): send to aria2
