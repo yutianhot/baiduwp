@@ -637,7 +637,7 @@ const download = async request => {
   const getRealLink = await fetch(dlink,{
     headers:{
       'user-agent': 'LogStatistic',
-      'Cookie': 'BDUSS==**INPUT YOUR SVIP BDUSS HERE**;'
+      'Cookie': 'BDUSS=**INPUT YOUR SVIP BDUSS HERE**;'
     },
     redirect:"manual"
   })
